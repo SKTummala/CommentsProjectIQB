@@ -1,0 +1,27 @@
+{
+  "name": "React_Comments_IQB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "npm install && nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "react": "cd client && npm install && npm start ",
+    "dev": "npm install concurrently && concurrently \"npm install\" \"npm run server\" \"npm run react\" "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "pg": "^8.8.0",
+    "underscore": "^1.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

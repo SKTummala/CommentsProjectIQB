@@ -17,9 +17,9 @@ const pool = new Pool({
   database: process.env.database,
   password: process.env.dbpassword,
   port: process.env.dbport
-  // ssl: {     // required to connect to postgresql hosted on Heroku
-  //   rejectUnauthorized: false,
-  // }
+  ,ssl: {     // required to connect to postgresql hosted on Heroku
+    rejectUnauthorized: false,
+  }
 });
 
 app.use(cors());

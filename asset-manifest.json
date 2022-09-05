@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SKTummala/CommentsProjectIQBGitpages/static/css/main.e461d9fc.css",
-    "main.js": "/SKTummala/CommentsProjectIQBGitpages/static/js/main.e04b34ec.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/SKTummala/CommentsProjectIQBGitpages/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo.svg": "/SKTummala/CommentsProjectIQBGitpages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/SKTummala/CommentsProjectIQBGitpages/index.html",
-    "main.e461d9fc.css.map": "/SKTummala/CommentsProjectIQBGitpages/static/css/main.e461d9fc.css.map",
-    "main.e04b34ec.js.map": "/SKTummala/CommentsProjectIQBGitpages/static/js/main.e04b34ec.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/SKTummala/CommentsProjectIQBGitpages/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/CommentsProjectIQB/static/css/main.e461d9fc.css",
+    "main.js": "/CommentsProjectIQB/static/js/main.ec5f4e63.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/CommentsProjectIQB/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/CommentsProjectIQB/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CommentsProjectIQB/index.html",
+    "main.e461d9fc.css.map": "/CommentsProjectIQB/static/css/main.e461d9fc.css.map",
+    "main.ec5f4e63.js.map": "/CommentsProjectIQB/static/js/main.ec5f4e63.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/CommentsProjectIQB/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e461d9fc.css",
-    "static/js/main.e04b34ec.js"
+    "static/js/main.ec5f4e63.js"
   ]
 }
